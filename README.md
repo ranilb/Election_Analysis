@@ -1,7 +1,11 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-This analysis was performed to determine the winner of the congressional election held in Jefferson, Denver and Arapahoe counties. Also, as an extension of this analysis, the county with the highest number of votes was determined.
+This analysis was performed to determine the winner of the congressional election held in Jefferson, Denver and Arapahoe counties per request by Colarado board of elections. Also, the county with the highest number of votes was determined.
+
+### Resources
+Data source: election_results.csv                                                                                                                         
+Software: Python 3.6.12 and Visual Studio Code 1.38.1
 
 ## Election-Audit Results
 The main goal of this analysis was to determine the winner of the election and the county  that had the largest number of votes. The goal was achieved by extracting the following information: 
