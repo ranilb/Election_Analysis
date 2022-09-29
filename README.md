@@ -5,7 +5,7 @@ This analysis was performed to determine the winner of the congressional electio
 
 ### Resources
 Data source: election_results.csv                                                                                                                         
-Software: Python 3.6.12 and Visual Studio Code 1.
+Software: Python 3.9.1 and Visual Studio Code 1.71.2
 
 ## Election-Audit Results
 The main goal of this analysis was to determine the winner of the election and the county  that had the largest number of votes. The goal was achieved by extracting the following information: 
